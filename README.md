@@ -38,7 +38,7 @@ The dataset contains credit card transactions made by European cardholders in Se
 
 ### Notes about the data:
 - transactions are anonymized
-- most features are transformed with PCA and представлены as `V1` to `V28`
+- most features are transformed with PCA and represents as `V1` to `V28`
 - `Time` and `Amount` are original input features
 - `Class` is the target variable:
   - `0` — normal transaction
@@ -98,7 +98,7 @@ The project currently includes the following steps:
 ### 3. Data types:
 - all columns are numeric
 - most features are float64
-- Class is int64 and represents a binary target variable
+- `Class` is int64 and represents a binary target variable
 
 ### 4. Class imbalance:
 - normal transactions: 284,315 (99.83%)
@@ -130,7 +130,7 @@ This project helps practice:
 - evaluate baseline machine learning model
 - analyze precision and recall instead of relying only on accuracy
 
-# <details>
+<details>
  <summary> How to Run </summary>
 
 1. Clone the repository
