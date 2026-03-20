@@ -131,7 +131,7 @@ This project helps practice:
 - analyze precision and recall instead of relying only on accuracy
 
 <details open>
-  <summary># How to Run</summary>
+ # <summary>How to Run</summary>
 
 1. Clone the repository
 2. Create and activate a virtual environment
@@ -153,4 +153,4 @@ or open the notebook directly in VSCode.
 
 ## Serhii Mamonov
 
-# This project was created as part of practical training in data analysis, portfolio development, and preparation for junior data analyst / fraud analytics roles.
+### This project was created as part of practical training in data analysis, portfolio development, and preparation for junior data analyst / fraud analytics roles.
