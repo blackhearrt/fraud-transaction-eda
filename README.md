@@ -130,8 +130,8 @@ This project helps practice:
 - evaluate baseline machine learning model
 - analyze precision and recall instead of relying only on accuracy
 
-<details open>
- # <summary>How to Run</summary>
+# <details>
+ <summary> How to Run </summary>
 
 1. Clone the repository
 2. Create and activate a virtual environment
@@ -139,13 +139,14 @@ This project helps practice:
 4. Open the notebook
 
 ### Install dependencies:
-'''bash
+
+```bash
 pip install -r requirements.txt
-'''
+```
 ### Run Jupyter Notebook:
-'''bash
+```bash
 jupyter notebook
-'''
+```
 or open the notebook directly in VSCode.
 </details>
 
