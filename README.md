@@ -131,7 +131,9 @@ This project helps practice:
 - analyze precision and recall instead of relying only on accuracy
 
 <details>
- <summary> How to Run </summary>
+  
+ <summary> How to Run </summary>  
+ 
 
 1. Clone the repository
 2. Create and activate a virtual environment
